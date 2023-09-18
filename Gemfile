@@ -72,5 +72,3 @@ group :test do
 end
 
 gem "dotenv-rails", "~> 2.8"
-gem "sd_notify", "~> 0.1.1"
-
